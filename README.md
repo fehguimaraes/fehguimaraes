@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Fê
 
-🧙‍♀️ A sysadmin-at-heart, future SRE by ambition.
+🧙‍♀️ A support engineer by trade, sysadmin by heart, future SRE by ambition.
 
 I’m currently building my own infrastructure playground to explore DevOps, security, observability, and automation just for fun (and learning, of course!).
 
